@@ -1,0 +1,11 @@
+plugins {
+    id 'java'
+}
+
+description = "Secret PK Build"
+
+defaultTasks 'build'
+
+allprojects {
+    group "com.github.funin"
+}

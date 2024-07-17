@@ -1,0 +1,3 @@
+rootProject.name = 'secret-pk-project'
+include 'secret-pk'
+
